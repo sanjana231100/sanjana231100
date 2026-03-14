@@ -2,10 +2,6 @@
 
 I am a **Graduate Computer Science & Engineering student at Santa Clara University** and a **Web Accessibility Engineer**. With over 3 years of professional experience (including my time as an **L2 Developer at SAP**), I focus on building AI-driven solutions that prioritize accessibility and social impact.
 
-### 📊 GitHub Stats
-![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjana231100&show_icons=true&theme=transparent&rank_icon=github&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana231100&layout=compact&theme=transparent&border_radius=10)
-
 ---
 
 ### 🛠️ Technical Toolbox
@@ -26,7 +22,6 @@ I am a **Graduate Computer Science & Engineering student at Santa Clara Universi
 ### 💼 Professional Experience
 * **Santa Clara University:** Web Accessibility Engineer. Remediating platforms to WCAG 2.1 AA compliance using AI-powered tooling.
 * **SAP Labs India (L2 Developer):** Optimized SQL infrastructure for **SAP Joule's** intelligent analytics, reducing report generation time by **80%**.
-* **Accessibility Advocate:** Combining my professional background in accessibility with AI to create tools like PRISM.
 
 ---
 
