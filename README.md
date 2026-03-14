@@ -2,8 +2,13 @@
 
 I am a **Graduate Computer Science & Engineering student at Santa Clara University** and a **Web Accessibility Engineer**. With over 3 years of professional experience (including my time as an **L2 Developer at SAP**), I focus on building AI-driven solutions that prioritize accessibility and social impact.
 
-### 🛠️ Technical Toolbox
+### 📊 GitHub Stats
+![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjana231100&show_icons=true&theme=transparent&rank_icon=github&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana231100&layout=compact&theme=transparent&border_radius=10)
 
+---
+
+### 🛠️ Technical Toolbox
 * **AI / ML:** LLMs, RAG Pipelines, AWS Bedrock, TensorFlow, PyTorch, Scikit-learn, Computer Vision, Deep Learning
 * **Cloud & Infrastructure:** AWS (Lambda, Rekognition, S3, API Gateway), Serverless Architecture, SAP BTP
 * **Languages & Web:** Python, Java, JavaScript, SQL | React, Node.js, Django, REST APIs
@@ -12,7 +17,6 @@ I am a **Graduate Computer Science & Engineering student at Santa Clara Universi
 ---
 
 ### 🚀 Featured Projects
-
 * **[PRISM](https://github.com/sanjana231100/PRISM)**: AI-powered navigation for the visually impaired. Uses AWS Rekognition + Bedrock for sub-2s response times.
 * **Masked Face Recognition**: Siamese network (one-shot learning) for face recognition under occluded conditions.
 * **[Sheets Clone](https://github.com/sanjana231100/Spreadsheets-By-Sanjana)**: Spreadsheet engine with DAG-based formula tracking and expression tree parsing.
@@ -20,7 +24,6 @@ I am a **Graduate Computer Science & Engineering student at Santa Clara Universi
 ---
 
 ### 💼 Professional Experience
-
 * **Santa Clara University:** Web Accessibility Engineer. Remediating platforms to WCAG 2.1 AA compliance using AI-powered tooling.
 * **SAP Labs India (L2 Developer):** Optimized SQL infrastructure for **SAP Joule's** intelligent analytics, reducing report generation time by **80%**.
 * **Accessibility Advocate:** Combining my professional background in accessibility with AI to create tools like PRISM.
@@ -28,9 +31,11 @@ I am a **Graduate Computer Science & Engineering student at Santa Clara Universi
 ---
 
 ### 📫 Let's Connect!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjana-hiremath/)](https://www.linkedin.com/in/sanjanahiremath23/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiremath2@scu.edu)](mailto:shiremath2@scu.edu)
-* **Current Location:** Santa Clara, CA
+**Current Location:** Santa Clara, CA
 
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjanahiremath23/)](https://www.linkedin.com/in/sanjanahiremath23/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiremath2@scu.edu)](mailto:shiremath2@scu.edu)
+
+<br />
+
 *“Building intelligent, accessible technology that makes a difference.”*
