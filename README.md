@@ -28,8 +28,8 @@ I am a **Graduate Computer Science & Engineering student at Santa Clara Universi
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Sanjana Hiremath](https://www.linkedin.com/in/sanjanahiremath23/)
-* **Email:** shiremath2@scu.edu
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjana-hiremath/)](https://www.linkedin.com/in/sanjanahiremath23/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiremath2@scu.edu)](mailto:shiremath2@scu.edu)
 * **Current Location:** Santa Clara, CA
 
 ---
