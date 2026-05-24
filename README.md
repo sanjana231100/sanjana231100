@@ -1,36 +1,26 @@
 # Hi, I'm Sanjana! 👋
 
-I am a **Graduate Computer Science & Engineering student at Santa Clara University** and a **Web Accessibility Engineer**. With over 3 years of professional experience (including my time as an **L2 Developer at SAP**), I focus on building AI-driven solutions that prioritize accessibility and social impact.
+MS CS student at Santa Clara University | AI Engineer | ex-SAP Labs
+
+I build end-to-end AI systems and fullstack tools for ML workflows.
 
 ---
 
-### 🛠️ Technical Toolbox
-* **AI / ML:** LLMs, RAG Pipelines, AWS Bedrock, TensorFlow, PyTorch, Scikit-learn, Computer Vision, Deep Learning
-* **Cloud & Infrastructure:** AWS (Lambda, Rekognition, S3, API Gateway), Serverless Architecture, SAP BTP
-* **Languages & Web:** Python, Java, JavaScript, SQL | React, Node.js, Django, REST APIs
-* **Databases & Tools:** MySQL, SQL Server, Query Optimization | Git, Agile/Scrum, CommonLook
+### 🛠️ Stack
+**AI/ML:** LangChain, LangGraph, LoRA/PEFT, PyTorch, HuggingFace, MLflow, W&B
+**Languages:** Python, JavaScript, SQL, Java, Linux
+**Web & Backend:** React, React Native, Flask, FastAPI, REST APIs
+**Infra & Data:** Docker, PostgreSQL, Redis, ChromaDB, AWS, CI/CD
 
 ---
 
-### 🚀 Featured Projects
-* **[PRISM](https://github.com/sanjana231100/PRISM)**: AI-powered navigation for the visually impaired. Uses AWS Rekognition + Bedrock for sub-2s response times.
-* **Masked Face Recognition**: Siamese network (one-shot learning) for face recognition under occluded conditions.
-* **[Sheets Clone](https://github.com/sanjana231100/Spreadsheets-By-Sanjana)**: Spreadsheet engine with DAG-based formula tracking and expression tree parsing.
+### 🚀 Projects
+* **[MedMom](https://medmom.vercel.app)** 🏆 1st Place Hackathon - Multimodal AI app built fullstack in React Native
+* **[HR LLM Alignment Pipeline](https://github.com/sanjana231100/hr-llm-alignment)** - SFT → Reward Model → DPO on Mistral-7B with QLoRA, tracked on W&B
+* **[Workforce AI Agent](https://huggingface.co/spaces/sanjana231100/workforce-ai-agent)** - ReAct agent with LangGraph + Groq LLaMA-3.3-70B
+* **[RAG PDF Chatbot](https://github.com/sanjana231100)** - LangChain + ChromaDB + Docker, deployed on HuggingFace Spaces
 
 ---
 
-### 💼 Professional Experience
-* **Santa Clara University:** Web Accessibility Engineer. Remediating platforms to WCAG 2.1 AA compliance using AI-powered tooling.
-* **SAP Labs India (L2 Developer):** Optimized SQL infrastructure for **SAP Joule's** intelligent analytics, reducing report generation time by **80%**.
-
----
-
-### 📫 Let's Connect!
-**Current Location:** Santa Clara, CA
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjanahiremath23/)](https://www.linkedin.com/in/sanjanahiremath23/)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiremath2@scu.edu)](mailto:shiremath2@scu.edu)
-
-<br />
-
-*“Building intelligent, accessible technology that makes a difference.”*
+📍 Santa Clara, CA
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjanahiremath23/)](https://www.linkedin.com/in/sanjanahiremath23/)
